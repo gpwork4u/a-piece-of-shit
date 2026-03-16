@@ -14,4 +14,4 @@ Usage:
 from a_piece_of_shit._core import import_everything
 
 __all__ = ['import_everything']
-__version__ = '0.1.0'
+__version__ = '0.2.0'
